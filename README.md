@@ -12,7 +12,7 @@ The player aims to prepare random orders quickly by using the equipment in the k
 - And much more...
 
 # GamePlay ScreenShot
-<img width="1728" alt="mainScreen" src="https://github.com/tatakrbyk/Kitchen-Chaos/assets/89932770/afdc5f4c-6cdf-4471-9c06-49be3f7abf9c">
+<img width="1701" alt="mainScreens" src="https://github.com/tatakrbyk/Kitchen-Chaos/assets/89932770/098b0ec9-ff8a-46fa-8234-29b37ac9357c">
 
 ![Ekran Görüntüsü (4)](https://github.com/tatakrbyk/Kitchen-Chaos/assets/89932770/2a3f9a0a-1666-4cd8-ab3a-36a79675e3fe)
 
